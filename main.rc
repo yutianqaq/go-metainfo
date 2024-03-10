@@ -1,5 +1,6 @@
 1 VERSIONINFO
 FILEVERSION 17,5,0,49595
+FILETYPE 0x1
 
 BEGIN
     BLOCK "StringFileInfo"
@@ -9,6 +10,7 @@ BEGIN
 			VALUE "FileDescription", "MXware Workstation"
 			VALUE "FileVersion", "17.5.0.49595"
 			VALUE "LegalCopyright", "Copyright (C) 2024 MXware, Inc."
+			VALUE "InternalName", "tybs"
 			VALUE "OriginalFilename", "main.exe"
 			VALUE "ProductName", "MXware Workstation"
 			VALUE "ProductVersion", "17.5.0 build-22583795"
